@@ -1,4 +1,5 @@
-## Snake_Game_c++_sdl
+#Snake_Game_c++_sdl
+
 # Snake game made in C++ with the SDL2 libraries
 
 The game implements lives system, pause, and Game Over screen. For the moment it only supports one speed.
