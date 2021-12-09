@@ -7,7 +7,7 @@ Game::Game(Graphics* graphics, Input* input) :
 	_input(input),
 	_snake(graphics),
 	_apple(graphics),
-	_FPS(17),
+	_FPS(7),
 	_MPF(1000 / _FPS)
 {
 
